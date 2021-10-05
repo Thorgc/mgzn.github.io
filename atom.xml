@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://mgzn.github.io</id>
     <title>Gridea</title>
-    <updated>2021-10-05T03:36:48.360Z</updated>
+    <updated>2021-10-05T03:40:17.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://mgzn.github.io"/>
     <link rel="self" href="https://https://mgzn.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://https://mgzn.github.io/images/avatar.png</logo>
     <icon>https://https://mgzn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[CCTV直播]]></title>
+        <id>https://https://mgzn.github.io/post/cctv-zhi-bo/</id>
+        <link href="https://https://mgzn.github.io/post/cctv-zhi-bo/">
+        </link>
+        <updated>2021-10-05T03:38:24.000Z</updated>
+        <content type="html"><![CDATA[<p>CCTV1綜合,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8<br>
+CCTV2財經,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8<br>
+CCTV3綜藝,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8<br>
+CCTV4中文國際,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8<br>
+CCTV5體育,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8<br>
+CCTV5+體育賽事,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8<br>
+CCTV6電影,http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8<br>
+CCTV7國防軍事,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8<br>
+CCTV8電視劇,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8<br>
+CCTV9紀錄,http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8<br>
+CCTV10科教,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8<br>
+CCTV11戲曲,http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8<br>
+CCTV12社會與法,http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8<br>
+CCTV13新聞,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8<br>
+CCTV14少兒,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8<br>
+CCTV15音樂,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8<br>
+CCTV17農業農村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://https://mgzn.github.io/post/hello-gridea/</id>
